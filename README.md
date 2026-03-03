@@ -1,10 +1,10 @@
 ## HR Analytics Project – Attrition, Engagement and Workforce Optimization-Using-MS-Excel
 Data analysis using MS Excel  to discover insights on employee attrition, compensation alignment, engagement, and workforce distribution.
 ### Table of Contents
-  - [1. Project Overview](#1.-project-overview)
-  - [2. Business Problem](#2.-business-problem)
-  - [3. Specific Questions](#3.-specific-questions)
-  - [4. Tools and Technologies](#4.-tools-and-technologies)
+  - [Project Overview](#project-overview)
+  - [Business Problem](#business-problem)
+  - [Specific Questions](#specific-questions)
+  - [Tools and Technologies](#tools-and-technologies)
   - [Data Modeling Approach](#data-modeling-approach)
   - [Analysis](#analysis)
   - [Key Insights](#key-insights)
@@ -13,15 +13,15 @@ Data analysis using MS Excel  to discover insights on employee attrition, compen
   - [Demonstrated Skills](#demonstrated-skills)
   - [Future Improvements](#future-improvements)
 
-### 1. Project Overview
+### Project Overview
 This project analyzes employee attrition, compensation alignment, engagement, and workforce distribution using a structured HR dataset (CSV format).
 The goal was to design a scalable HR analytics solution using **Excel, Power Pivot, and DAX** to generate executive-level insights and KPI dashboards that support data-driven HR decision-making.
-### 2. Business Problem
+### Business Problem
 The organization previously experienced a **33.80% attrition rate**, later reduced to **17.54%**.
 Despite improvement, turnover remained a strategic risk impacting: Talent retention, Payroll efficiency, Workforce stability and Organizational performance.
 This project identifies key attrition drivers and quantifies relationships between:
 Tenure, Overtime, Compensation, Training frequency, Job satisfaction and Work-life balance
-### 3. Specific Questions
+### Specific Questions
 **Attrition 1**
   - What is the overall employee attrition rate?
   - Which departments have the highest attrition rates?
@@ -44,7 +44,7 @@ Tenure, Overtime, Compensation, Training frequency, Job satisfaction and Work-li
   - How satisfied are employees across departments?
   - How does environment satisfaction relate to attrition?
 
-### 4. Tools and Technologies
+### Tools and Technologies
   - **Microsoft Excel**
   - **Power Pivot (Data Model)**
   - **DAX (Data Analysis Expressions)**

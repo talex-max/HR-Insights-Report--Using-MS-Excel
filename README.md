@@ -1,17 +1,17 @@
 ## HR Analytics Project – Attrition, Engagement and Workforce Optimization-Using-MS-Excel
 Data analysis using MS Excel  to discover insights on employee attrition, compensation alignment, engagement, and workforce distribution.
 ### Table of Contents
-  - [Project Overview](project-overview)
-  - [Business Problem](business-problem)
-  - [Specific Questions](specific-questions)
-  - [Tools and Technologies](tools-and-technologies)
-  - [Data Modeling Approach](data-modeling-approach)
-  - [Analysis](analysis)
-  - [Key Insights](key-insights)
-  - [Dashboard Features](dashboard-features)
-  - [Business Impact](business-impact)
-  - [Demonstrated Skills](demonstrated-skills)
-  - [Future Improvements](future-improvements)
+  - [Project Overview](#project-overview)
+  - [Business Problem](#business-problem)
+  - [Specific Questions](#specific-questions)
+  - [Tools and Technologies](#tools-and-technologies)
+  - [Data Modeling Approach](#data-modeling-approach)
+  - [Analysis](#analysis)
+  - [Key Insights](#key-insights)
+  - [Dashboard Features](#dashboard-features)
+  - [Business Impact](#business-impact)
+  - [Demonstrated Skills](#demonstrated-skills)
+  - [Future Improvements](#future-improvements)
 
 ### Project Overview
 This project analyzes employee attrition, compensation alignment, engagement, and workforce distribution using a structured HR dataset (CSV format).
